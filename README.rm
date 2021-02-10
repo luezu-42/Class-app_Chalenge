@@ -1,0 +1,19 @@
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+
+### Iniciando projeto
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/luezu-42/Class-app_Chalenge.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Class-app_Chalenge
+
+# Execute o script
+$ node index.js
+
+# O resultado sera impresso no console
+``` 
