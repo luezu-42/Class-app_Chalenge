@@ -12,6 +12,9 @@ $ git clone <https://github.com/luezu-42/Class-app_Chalenge.git>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Class-app_Chalenge
 
+# Baixe as libs
+$ npm install ou yarn install
+
 # Execute o script
 $ node index.js
 
